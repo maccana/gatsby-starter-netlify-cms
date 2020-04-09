@@ -1,9 +1,8 @@
 ---
 templateKey: courses-page
 path: /courses
-title: About our courses
+title: About Our Courses
 ---
+Now editable.
 
-### About our courses
-
-lfjashfjshfshfjhKJSAHJHSKHAKhfksahl
+[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
