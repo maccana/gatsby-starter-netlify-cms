@@ -1,8 +1,10 @@
 ---
 templateKey: courses-page
 path: /courses
-title: About our courses
+title: About Our Courses
 ---
+
+Now editable.
 
 ### About our courses
 
