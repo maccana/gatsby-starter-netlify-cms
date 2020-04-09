@@ -2,15 +2,14 @@
 templateKey: index-page
 title: Great coffee with a conscience
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Great code with a imagination
+subheading: Supporting small to medium enterprises
 mainpitch:
-  title: Why Kaldi
+  title: Why take our courses?
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse corrupti ipsum
+    labore modi. Tenetur dolores ipsam itaque ipsum quia. Consectetur explicabo
+    quasi nisi minima optio vero at quas nam sapiente!
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
@@ -47,10 +46,8 @@ intro:
         sale. The full price you pay goes to the artist.
   heading: What we offer
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    A place where you can improve your English and reach your personal and
+    professional goals.
 main:
   heading: Great coffee with no compromises
   description: >
