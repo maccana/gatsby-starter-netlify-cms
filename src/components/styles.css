@@ -1,0 +1,5 @@
+a.has-text-primary:focus,
+a.has-text-primary:hover {
+  color: #0019a3 !important;
+  text-decoration: none;
+}
