@@ -1,5 +1,4 @@
-a.has-text-primary:focus,
-a.has-text-primary:hover {
+.notification a:not(.button):not(.dropdown-item) {
   color: #0019a3 !important;
   text-decoration: none;
 }
